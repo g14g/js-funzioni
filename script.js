@@ -129,5 +129,5 @@ function ritiraDado () {
 
 function mostraCalcoloIva (prezzo, iva) {
     const prezzoPiuIva = calcolaPrezzoPiuIva(prezzo = 85, iva = 22);
-    alert(`Il prezzo di 85 € più iva al 22% è ${prezzoPiuIva}€`);
+    alert(`Il prezzo di 85 € più iva al 22% è ${prezzoPiuIva} €`);
 }

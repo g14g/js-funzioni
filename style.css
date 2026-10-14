@@ -45,6 +45,15 @@ button {
 .esercizio-finale {
     width: 100%;
     display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
     justify-content: center;
+    align-items: center;
     gap: 2rem;
+}
+
+h2 {
+    width: 100%;
+    font-size: 3rem;
+    text-align: center;
 }
