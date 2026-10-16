@@ -1,7 +1,5 @@
 // ██████████ FUNZIONI
 
-// Gli esercizi svolti e con il prompt sono commentati
-
 
 
 // ██████████ ESERCIZIO 1
