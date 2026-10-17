@@ -78,6 +78,8 @@ const esisteNumeroDispari = numeriArray.some(numero => {
 
 console.log(`C'è almeno un numero dispari nell'array? Risposta: ${esisteNumeroDispari}, ed è il numero: ${numeroTrovato}`);
 
+// Un'alternativa per trovare i numeri Pari/Dispari oltre ad usare l'operatore % (Remainder): numero % 2 !== 0
+// è quello di controllare la divisione per 2 e verificare se il risultato è un intero: Number.isInteger(numero / 2)
 
 
 // ██████████ ESERCIZIO 7
